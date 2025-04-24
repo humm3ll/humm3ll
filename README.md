@@ -24,7 +24,7 @@
   <!-- GitHub Repos count -->
   <img src="https://badgen.net/github/repos/humm3ll?icon=repo" alt="Repos" />
   <!-- GitHub Commits this month -->
-  <img src="https://badgen.net/github/commits/humm3ll?icon=git" alt="Commits this month" />
+  <img src="https://badgen.net/github/commits/micromatch/micromatch/humm3ll?icon=git" alt="Commits this month" />
 </p>
 
 ---
