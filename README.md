@@ -50,7 +50,7 @@
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <!-- Tailwind CSS -->
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/35/2/tailwind-css-logo-png_seeklogo-354675.png" alt="TailwindCSS" width="40" height="40"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
