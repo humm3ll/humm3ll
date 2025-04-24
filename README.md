@@ -3,7 +3,7 @@
 ============================ -->
 <p align="center">
   <!-- Swap out for your own custom banner (use a static image or an animated GIF!) -->
-  <img src="https://i.pinimg.com/originals/4f/79/e4/4f79e4f17d8563d4c1c9201aa4f1eb8a.gif" width="40%"/>
+  <img src="https://i.pinimg.com/originals/4f/79/e4/4f79e4f17d8563d4c1c9201aa4f1eb8a.gif" width="100%"/>
 </p>
 
 <!-- ============================
