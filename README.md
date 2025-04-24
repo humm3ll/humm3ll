@@ -21,10 +21,6 @@
 <p align="center">
   <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=humm3ll&style=flat&color=blue" alt="Profile views" />
-  <!-- GitHub Repos count -->
-  <img src="https://badgen.net/github/repos/humm3ll?icon=repo" alt="Repos" />
-  <!-- GitHub Commits this month -->
-  <img src="https://badgen.net/github/commits/micromatch/micromatch/humm3ll?icon=git" alt="Commits this month" />
 </p>
 
 ---
@@ -41,18 +37,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <!-- Tailwind CSS -->
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="TailwindCSS" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40" height="40"/>
+  <!-- Eclipse IDE -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-eclipse-icon-download-in-svg-png-gif-file-formats--brand-company-logo-world-logos-vol-3-pack-icons-282371.png?f=webp&w=128" alt="Eclipse IDE" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <!-- VSCode -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40"/>
 </p>
 
 ---
@@ -67,7 +61,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
-    width="45%" 
+    width="60%" 
   />
 
   <!-- Most Used Languages -->
@@ -75,7 +69,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
     alt="Most Used Languages" 
-    width="45%" 
+    width="60%" 
   />
 </p>
 
@@ -84,7 +78,7 @@
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll" 
     alt="GitHub Contribution Graph" 
-    width="45%" 
+    width="60%" 
   />
 </p>
 
@@ -92,7 +86,8 @@
   <!-- Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
-    alt="GitHub Streak" 
+    alt="GitHub Streak"
+     width="60%"
   />
 </p>
 
