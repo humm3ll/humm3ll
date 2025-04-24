@@ -81,7 +81,7 @@
 <p align="center">
   <!-- Contribution Graph -->
   <img 
-    src="https://activity-graph.herokuapp.com/graph?username=humm3ll&theme=react-dark&custom_title=Contributions+Graph" 
+    src="https://github-readme-activity-graph.vercel.app" 
     alt="GitHub Contribution Graph" 
     width="80%" 
   />
