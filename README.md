@@ -14,8 +14,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlwdzA3cDRocjJmNGR6em82N2xpbWFqOW5mejVnbTEzdzBpemV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.gif" width="80px" alt="wave"/>
 </h1>
 <p align="center">
-1st Year Undergraduate student in CS</strong> @ Edge Hill University 🎓 | 
-  Passionate about <strong>Robotics, Artificial Intelligence, and Software Engineering/Development</strong> 🌐 
+1st Year Undergraduate student in CS</strong> @ Edge Hill University | 
+  Passionate about <strong>Robotics, Artificial Intelligence, and Software Engineering/Development</strong> 
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 <!-- ============================
      📊 GITHUB STATS & CHARTS
 ============================ -->
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <!-- GitHub Readme Stats card -->
@@ -100,7 +100,7 @@
 <!-- ============================
      🎯 GOALS & CONTACT
 ============================ -->
-## 🎯 Goals
+## Prospects
 
 - Complete and Polish **Portfolio Website**  
 - Contribute to **Open-Source Projects** 
@@ -108,7 +108,7 @@
 
 ---
 
-## 📫 How to reach me
+## Contacts
 
 <p align="center">
   <!-- Email -->
