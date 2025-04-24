@@ -1,13 +1,12 @@
 <!-- ============================
-     📍 PROFILE BANNER
+       PROFILE BANNER
 ============================ -->
 <p align="center">
-  <!-- Swap out for your own custom banner (use a static image or an animated GIF!) -->
   <img src="https://i.pinimg.com/736x/31/3c/2f/313c2fa075973393c2741ddbe09d8a20.jpg" width="70%"/>
 </p>
 
 <!-- ============================
-     👋 INTRODUCTION
+       INTRODUCTION
 ============================ -->
 <h1 align="center">
   hellooo, i’m <a href="https://github.com/humm3ll">ethan:)</a> 
@@ -26,7 +25,7 @@
 ---
 
 <!-- ============================
-     🛠 TECHNOLOGY STACK
+       TECHNOLOGY STACK
 ============================ -->
 ## 🛠 Technology Stack
 
@@ -94,14 +93,13 @@
 ---
 
 <p align="center">
-  <!-- Swap out for your own custom banner (use a static image or an animated GIF!) -->
   <img src="https://i.pinimg.com/736x/8c/0f/b7/8c0fb72830daa3b0dfe9d2265a8142d0.jpg" width="50%"/>
 </p>
 
 ---
 
 <!-- ============================
-     🎯 GOALS & CONTACT
+       PROSPECTS & CONTACT
 ============================ -->
 ## Prospects
 
@@ -129,37 +127,9 @@
 </p>
 
 <p align="center">
-  <!-- Swap out for your own custom banner (use a static image or an animated GIF!) -->
   <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
 </p>
 
-<!-- ============================
-     ⚙️ Customization Tips
-============================ -->
-<!--
-1. **Banners & GIFs**  
-   - Hosting: use GitHub Pages, GitHub Issues/Gists, or any CDN (e.g. Cloudinary).  
-   - Animated GIFs: swap `<img>` URLs.
-
-2. **Badges & Counters**  
-   - Shields.io: https://shields.io/  
-   - Visitor Counter: https://komarev.com/ghpvc/
-   - Commit/Repo badges: https://badgen.net/
-
-3. **Stats Cards**  
-   - GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats  
-   - Contribution Graph: https://github.com/Ashutosh00710/github-readme-activity-graph  
-   - Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
-
-4. **Icons**  
-   - Devicon: https://cdn.jsdelivr.net/gh/devicons/devicon/  
-   - Simple Icons: https://cdn.simpleicons.org/
-
-5. **Plugins**  
-   - Activity Charts, Gitmojis, Music widgets: search “GitHub Readme widget” on npm or GitHub.
-
-6. **Theme**  
-   - Light vs Dark: toggle `?theme=dark` or `?theme=light` on stats URLs.
 
 7. **Layout**  
    - Use HTML `<table>` or `<div align="center">` for fine-grained control.
