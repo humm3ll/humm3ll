@@ -15,7 +15,7 @@
 </h1>
 <p align="center">
   A <strong>1st Year Undergraduate student in CS</strong> @ Edge Hill University 🎓 | 
-  Passionate about <strong>Robotics & Artificial Intelligence</strong> 🌐 • <strong>Software Engineering</strong> 
+  Passionate about <strong>Robotics, Artificial Intelligence, and Software Engineering/Development</strong> 🌐 
 </p>
 
 <p align="center">
