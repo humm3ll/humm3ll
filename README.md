@@ -10,8 +10,8 @@
      👋 INTRODUCTION
 ============================ -->
 <h1 align="center">
-  Hi, I’m <a href="https://github.com/hmm3ll">ethan :)</a> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
+  hellooo, i’m <a href="https://github.com/hmm3ll">ethan:)</a> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlwdzA3cDRocjJmNGR6em82N2xpbWFqOW5mejVnbTEzdzBpemV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.gif" width="30px" alt="wave"/>
 </h1>
 <p align="center">
   A <strong>1st Year Undergraduate student in CS</strong> @ Edge Hill University 🎓 | 
@@ -20,11 +20,11 @@
 
 <p align="center">
   <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=humm3ll&style=flat&color=blue" alt="Profile views" />
   <!-- GitHub Repos count -->
-  <img src="https://badgen.net/github/repos/YOUR_USERNAME?icon=repo" alt="Repos" />
+  <img src="https://badgen.net/github/repos/humm3ll?icon=repo" alt="Repos" />
   <!-- GitHub Commits this month -->
-  <img src="https://badgen.net/github/commits/YOUR_USERNAME?icon=git" alt="Commits this month" />
+  <img src="https://badgen.net/github/commits/humm3ll?icon=git" alt="Commits this month" />
 </p>
 
 ---
@@ -65,14 +65,14 @@
 <p align="center">
   <!-- GitHub Readme Stats card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
     width="45%" 
   />
 
   <!-- Most Used Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
     alt="Most Used Languages" 
     width="45%" 
   />
@@ -81,7 +81,7 @@
 <p align="center">
   <!-- Contribution Graph -->
   <img 
-    src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&custom_title=Contributions+Graph" 
+    src="https://activity-graph.herokuapp.com/graph?username=humm3llE&theme=react-dark&custom_title=Contributions+Graph" 
     alt="GitHub Contribution Graph" 
     width="80%" 
   />
@@ -90,7 +90,7 @@
 <p align="center">
   <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
     alt="GitHub Streak" 
   />
 </p>
@@ -102,9 +102,9 @@
 ============================ -->
 ## 🎯 Goals
 
-- Complete and polish **Portfolio Website**  
-- Contribute to **3 Open-Source Projects** by month’s end  
-- Build a **Mini-framework** in Node.js  
+- Complete and Polish **Portfolio Website**  
+- Contribute to **Open-Source Projects** 
+- Build an innovative **AI Project**  
 
 ---
 
