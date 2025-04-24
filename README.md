@@ -3,7 +3,7 @@
 ============================ -->
 <p align="center">
   <!-- Swap out for your own custom banner (use a static image or an animated GIF!) -->
-  <img src="https://i.pinimg.com/originals/4f/79/e4/4f79e4f17d8563d4c1c9201aa4f1eb8a.gif" width="80%"/>
+  <img src="https://i.pinimg.com/736x/31/3c/2f/313c2fa075973393c2741ddbe09d8a20.jpg" width="70%"/>
 </p>
 
 <!-- ============================
@@ -93,6 +93,13 @@
 
 ---
 
+<p align="center">
+  <!-- Swap out for your own custom banner (use a static image or an animated GIF!) -->
+  <img src="https://i.pinimg.com/736x/8c/0f/b7/8c0fb72830daa3b0dfe9d2265a8142d0.jpg" width="50%"/>
+</p>
+
+---
+
 <!-- ============================
      🎯 GOALS & CONTACT
 ============================ -->
@@ -106,7 +113,7 @@
 
 ## Contacts
 
-<p align="center">
+<p align="justify">
   <!-- Email -->
   <a href="mailto:humm3ll@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
@@ -123,7 +130,7 @@
 
 <p align="center">
   <!-- Swap out for your own custom banner (use a static image or an animated GIF!) -->
-  <img src="https://i.pinimg.com/originals/59/74/b5/5974b56cb84da7923d194d5430c1002f.gif"alt="(https://i.pinimg.com/originals/2a/d2/41/2ad241d9406be8f07546ef21c14d2618.gif)" width="70%"/>
+  <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
 </p>
 
 <!-- ============================
