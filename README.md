@@ -11,7 +11,7 @@
 ============================ -->
 <h1 align="center">
   hellooo, i’m <a href="https://github.com/hmm3ll">ethan:)</a> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlwdzA3cDRocjJmNGR6em82N2xpbWFqOW5mejVnbTEzdzBpemV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.gif" width="30px" alt="wave"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlwdzA3cDRocjJmNGR6em82N2xpbWFqOW5mejVnbTEzdzBpemV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.gif" width="80px" alt="wave"/>
 </h1>
 <p align="center">
   A <strong>1st Year Undergraduate student in CS</strong> @ Edge Hill University 🎓 | 
