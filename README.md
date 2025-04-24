@@ -56,7 +56,7 @@
 ============================ -->
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <!-- GitHub Readme Stats card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
@@ -65,7 +65,7 @@
   />
 
   <!-- Most Used Languages -->
-  <p align="center">
+  <p align="right">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
     alt="Most Used Languages" 
@@ -73,7 +73,7 @@
   />
 </p>
 
-<p align="center">
+<p align="justify">
   <!-- Contribution Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll" 
@@ -82,7 +82,7 @@
   />
 </p>
 
-<p align="center">
+<p align="right">
   <!-- Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
