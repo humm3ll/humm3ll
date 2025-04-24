@@ -81,7 +81,7 @@
 <p align="center">
   <!-- Contribution Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll" 
     alt="GitHub Contribution Graph" 
     width="80%" 
   />
