@@ -13,8 +13,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlwdzA3cDRocjJmNGR6em82N2xpbWFqOW5mejVnbTEzdzBpemV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.gif" width="80px" alt="wave"/>
 </h1>
 <p align="center">
-1st Year Undergraduate student in CS</strong> @ Edge Hill University | 
-  Passionate about <strong>Robotics, Artificial Intelligence, and Software Engineering/Development</strong> 
+1st Year Undergraduate student in CS</strong> @ Edge Hill University | Passionate about <strong>Robotics, Artificial Intelligence, and Software Engineering/Development</strong> 
 </p>
 
 <p align="center">
@@ -86,14 +85,14 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
     alt="GitHub Streak"
-     width="345%"
+     width="45%"
   />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/8c/0f/b7/8c0fb72830daa3b0dfe9d2265a8142d0.jpg" width="50%"/>
+  <img src="https://i.pinimg.com/736x/8c/0f/b7/8c0fb72830daa3b0dfe9d2265a8142d0.jpg" width="45%"/>
 </p>
 
 ---
