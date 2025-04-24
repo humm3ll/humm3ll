@@ -61,7 +61,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
-    width="60%" 
+    width="50%" 
   />
 
   <!-- Most Used Languages -->
@@ -69,7 +69,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
     alt="Most Used Languages" 
-    width="60%" 
+    width="50%" 
   />
 </p>
 
@@ -78,7 +78,7 @@
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll" 
     alt="GitHub Contribution Graph" 
-    width="60%" 
+    width="50%" 
   />
 </p>
 
@@ -87,7 +87,7 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
     alt="GitHub Streak"
-     width="60%"
+     width="50%"
   />
 </p>
 
