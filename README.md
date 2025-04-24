@@ -71,6 +71,7 @@
   />
 
   <!-- Most Used Languages -->
+  <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
     alt="Most Used Languages" 
