@@ -130,6 +130,3 @@
 </p>
 
 
-7. **Layout**  
-   - Use HTML `<table>` or `<div align="center">` for fine-grained control.
--->
