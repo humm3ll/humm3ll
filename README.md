@@ -133,12 +133,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
-</p>
-
-
-
+---
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
