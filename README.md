@@ -27,18 +27,23 @@
 
 <p align="center">
   <!-- Email -->
-  <a href="mailto:humm3ll@outlook.com" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height: 40px;"/>
+  <a href="mailto:humm3ll@outlook.com" style="display: inline-block; margin: 5px;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ethan-hulme/" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;"/>
+  <a href="https://linkedin.com/in/ethan-hulme/" style="display: inline-block; margin: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <!-- Portfolio -->
-  <a href="https://humm3ll.github.io/" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio" style="height: 40px;"/>
+  <a href="https://humm3ll.github.io/" style="display: inline-block; margin: 5px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
+</p>
+
 
 ---
 
