@@ -3,8 +3,8 @@
 ============================ -->
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/1e/f7/cb/1ef7cb22a6c0a543d8e05ef0e254509c.gif" 
-    alt="Animated Banner 2" 
+    src="https://i.pinimg.com/736x/31/3c/2f/313c2fa075973393c2741ddbe09d8a20.jpg" 
+    alt="Banner Image" 
     width="100%" 
     height="300px" 
     style="object-fit: cover; border-radius: 10px;"
