@@ -23,6 +23,25 @@
 
 ---
 
+## Contacts
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:humm3ll@outlook.com" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height: 40px;"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ethan-hulme/" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;"/>
+  </a>
+  <!-- Portfolio -->
+  <a href="https://humm3ll.github.io/" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio" style="height: 40px;"/>
+  </a>
+</p>
+
+---
+
 <!-- ============================
        TECHNOLOGY STACK
 ============================ -->
@@ -114,24 +133,6 @@
 - Achieve Certifications in **Emerging Tech**:
   Complete certifications in AI, cloud computing (AWS, Azure), or Cybersecurity to solidify expertise and boost credibility.
 
----
-
-## Contacts
-
-<p align="center">
-  <!-- Email -->
-  <a href="mailto:humm3ll@outlook.com" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height: 40px;"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ethan-hulme/" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;"/>
-  </a>
-  <!-- Portfolio -->
-  <a href="https://humm3ll.github.io/" style="display: inline-block; transition: all 0.3s ease-in-out; margin: 5px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio" style="height: 40px;"/>
-  </a>
-</p>
 
 ---
 
