@@ -84,14 +84,14 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
-    width="45%" 
+    width="30%" 
     style="margin: 5px;"
   />
   
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
     alt="Most Used Languages" 
-    width="45%" 
+    width="30%" 
     style="margin: 5px;"
   />
 </p>
@@ -101,14 +101,14 @@
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll" 
     alt="GitHub Contribution Graph" 
-    width="45%" 
+    width="30%" 
     style="margin: 5px;"
   />
   
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
     alt="GitHub Streak" 
-    width="45%" 
+    width="30%" 
     style="margin: 5px;"
   />
 </p>
