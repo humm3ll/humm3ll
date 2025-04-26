@@ -121,20 +121,21 @@
 <p align="justify">
   <!-- Email -->
   <a href="mailto:humm3ll@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height: 35px;"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ethan-hulme/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 35px;"/>
   </a>
   <!-- Portfolio -->
   <a href="https://humm3ll.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio" style="height: 35px;"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
 </p>
+
 
 
