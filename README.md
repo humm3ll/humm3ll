@@ -119,19 +119,17 @@
 ## Contacts
 
 <p align="justify">
-  <!-- Email -->
-  <a href="mailto:humm3ll@outlook.com">
+  <a href="mailto:humm3ll@outlook.com" style="display: inline-block; transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height: 35px;"/>
   </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ethan-hulme/">
+  <a href="https://linkedin.com/in/ethan-hulme/" style="display: inline-block; transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 35px;"/>
   </a>
-  <!-- Portfolio -->
-  <a href="https://humm3ll.github.io/">
+  <a href="https://humm3ll.github.io/" style="display: inline-block; transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio" style="height: 35px;"/>
   </a>
 </p>
+
 
 
 <p align="center">
