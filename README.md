@@ -129,7 +129,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/736x/e8/be/81/e8be815b807986681ad629a47840cb17.jpg" 
+    src="https://i.pinimg.com/736x/4d/63/fa/4d63fa71e1f4692e83a116b730809c4e.jpg" 
     alt="Banner" 
     width="100%" 
     height="300px" 
