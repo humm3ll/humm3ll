@@ -129,7 +129,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/1e/f7/cb/1ef7cb22a6c0a543d8e05ef0e254509c.gif" 
+    src="https://media.giphy.com/media/3o7aD2sa1h4g3e1h1G/giphy.gif" 
     alt="Banner" 
     style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;"
   />
