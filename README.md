@@ -79,40 +79,40 @@
 ============================ -->
 ## 📊 GitHub Stats
 
-<p align="left">
-  <!-- GitHub Readme Stats card -->
+<p align="center">
+  <!-- Row 1 -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
     width="45%" 
+    style="margin: 5px;"
   />
-
-  <!-- Most Used Languages -->
-  <p align="right">
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
     alt="Most Used Languages" 
     width="45%" 
+    style="margin: 5px;"
   />
 </p>
 
-<p align="justify">
-  <!-- Contribution Graph -->
+<p align="center">
+  <!-- Row 2 -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll" 
     alt="GitHub Contribution Graph" 
     width="45%" 
+    style="margin: 5px;"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
+    alt="GitHub Streak" 
+    width="45%" 
+    style="margin: 5px;"
   />
 </p>
 
-<p align="right">
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
-    alt="GitHub Streak"
-     width="45%"
-  />
-</p>
 
 
 ---
