@@ -102,9 +102,17 @@
 ============================ -->
 ## Prospects
 
-- Complete and Polish **Portfolio Website**  
-- Contribute to **Open-Source Projects** 
-- Build an innovative **AI Project**  
+- Refine and Expand **Portfolio Website**:
+  Implement interactive features (blogs, projects, more animations and images) and optimise further for mobile and SEO responsiveness.
+  
+- Contribute to High-Impact **Open-Source Projects**:
+  Focus on projects in AI, Cybersecurity, web dev etc.
+ 
+- Build an innovative **AI Project**:
+  Build a real-world AI tool (e.g., intelligent chatbot, personal productivity assistant, etc) and deploy it.
+
+- Achieve Certifications in **Emerging Tech**:
+  Complete certifications in AI, cloud computing (AWS, Azure), or Cybersecurity to solidify expertise and boost credibility.
 
 ---
 
