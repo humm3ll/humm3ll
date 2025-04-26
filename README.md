@@ -137,5 +137,18 @@
   <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
 </p>
 
+<!-- Hover Effect Script -->
+<script>
+  const links = document.querySelectorAll('a');
+  links.forEach(link => {
+    link.addEventListener('mouseover', () => {
+      link.style.transform = 'scale(1.1)';
+    });
+    link.addEventListener('mouseout', () => {
+      link.style.transform = 'scale(1)';
+    });
+  });
+</script>
+
 
 
