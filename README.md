@@ -129,9 +129,11 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3o7aD2sa1h4g3e1h1G/giphy.gif" 
-    alt="Banner" 
-    style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;"
+    src="https://i.pinimg.com/736x/8c/0f/b7/8c0fb72830daa3b0dfe9d2265a8142d0.jpg" 
+    alt="Profile Banner" 
+    width="100%" 
+    height="300px" 
+    style="object-fit: cover; border-radius: 10px;"
   />
 </p>
 
