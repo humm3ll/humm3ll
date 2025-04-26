@@ -129,7 +129,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/736x/4d/63/fa/4d63fa71e1f4692e83a116b730809c4e.jpg" 
+    src="https://i.pinimg.com/736x/f1/b1/a6/f1b1a6adc25e706f2f86aab1fbc381c8.jpg" 
     alt="Banner" 
     width="100%" 
     height="300px" 
@@ -164,7 +164,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" 
+    src="https://i.pinimg.com/originals/a8/4d/ea/a84deae9109e40e459767abdcabcc891.gif" 
     alt="Animated Banner" 
     width="100%" 
     height="300px" 
