@@ -21,7 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=humm3ll&style=flat&color=blue" alt="Profile views" />
 </p>
 
+
 ---
+
 
 ## Contacts
 
@@ -40,12 +42,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
-</p>
-
 
 ---
+
 
 <!-- ============================
        TECHNOLOGY STACK
@@ -71,7 +70,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40"/>
 </p>
 
+
 ---
+
 
 <!-- ============================
      📊 GITHUB STATS & CHARTS
@@ -113,13 +114,17 @@
   />
 </p>
 
+
 ---
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/8c/0f/b7/8c0fb72830daa3b0dfe9d2265a8142d0.jpg" width="45%"/>
 </p>
 
+
 ---
+
 
 <!-- ============================
        PROSPECTS & CONTACT
@@ -140,6 +145,7 @@
 
 
 ---
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/83/ef/2f/83ef2f5bce915c0018e66ba562e1a7fc.gif" width="50%"/>
