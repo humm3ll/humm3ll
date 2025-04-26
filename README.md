@@ -2,7 +2,13 @@
        PROFILE BANNER
 ============================ -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/31/3c/2f/313c2fa075973393c2741ddbe09d8a20.jpg" width="70%"/>
+  <img 
+    src="https://i.pinimg.com/736x/31/3c/2f/313c2fa075973393c2741ddbe09d8a20.jpg" 
+    alt="Banner Image" 
+    width="100%" 
+    height="300px" 
+    style="object-fit: cover; border-radius: 10px;"
+  />
 </p>
 
 <!-- ============================
