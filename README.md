@@ -166,7 +166,7 @@
   <img 
     src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" 
     alt="Animated Banner" 
-    width="100%" 
+    width="80%" 
     height="300px" 
     style="object-fit: cover; border-radius: 10px;"
   />
