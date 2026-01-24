@@ -7,8 +7,8 @@
   <img 
     src="https://i.pinimg.com/736x/1a/4b/24/1a4b24b92bcfc79a41430588665ccc31.jpg" 
     alt="Banner Image" 
-    width="80%" 
-    height="500px" 
+    width="100%" 
+    height="400px" 
     style="object-fit: cover; border-radius: 10px;"
   />
 </p>
