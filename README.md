@@ -164,7 +164,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/a8/4d/ea/a84deae9109e40e459767abdcabcc891.gif" 
+    src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" 
     alt="Animated Banner" 
     width="100%" 
     height="300px" 
