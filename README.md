@@ -5,7 +5,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/736x/60/14/e9/6014e9188a432c0db484e417540be068.jpg" 
+    src="[https://i.pinimg.com/736x/60/14/e9/6014e9188a432c0db484e417540be068.jpg](https://pin.it/6wjkI2DiQ)" 
     alt="Banner Image" 
     width="100%" 
     height="300px" 
