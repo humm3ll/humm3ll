@@ -58,7 +58,7 @@
 <!-- ============================
        TECHNOLOGY STACK
 ============================ -->
-## 🛠 Technology Stack
+## Technology Stack
 
 <p align="center">
   <!-- HTML5 -->
@@ -86,7 +86,7 @@
 <!-- ============================
      📊 GITHUB STATS & CHARTS
 ============================ -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
