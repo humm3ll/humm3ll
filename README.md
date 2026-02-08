@@ -13,7 +13,7 @@
   Hiya, i’m <a href="https://github.com/humm3ll">Ethan :)</a> 
 </h1>
 <p align="center">
-2nd Year Undergraduate student in Computer Science</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, Robotics & AI, and Software Engineering</strong> 
+2nd Year Undergraduate student in Computer Science</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, Robotics & AI, Software Engineering, and Data Analysis</strong> 
 </p>
 
 <p align="center">
@@ -118,24 +118,32 @@
 
 
 
-## Prospects
 
-- Refine and Expand **Portfolio Website**:
-  Implement interactive features (blogs, projects, more animations and images) and optimise further for mobile and SEO responsiveness.
+## Core Focus: Cybersecurity
+
+I focus on building and securing systems with a strong foundation in practical cybersecurity. My work integrates software engineering, AI, robotics, and data science to develop secure, resilient, and real-world-ready systems.
+
+**Learning and Certification**  
+Actively pursuing industry recognised certifications including CompTIA Security+, CEH, and cloud security on AWS and Azure, to strengthen expertise across both offensive and defensive security domains.
+
+**Applied Security and Open Source**  
+Contributing to open source projects at the intersection of cybersecurity, AI, and data science, with a focus on threat detection, vulnerability assessment, and secure system design.
+
+## Current Objectives
+
+- Developing AI-assisted security tools for monitoring, threat analysis, and automated detection  
+- Expanding my portfolio into a hub for technical write ups, project deep dives, and security-focused case studies  
+- Leveraging my background in software engineering and robotics to design and secure complex systems suitable for high-assurance environments
+
+
+
   
-- Contribute to High-Impact **Open-Source Projects**:
-  Focus on projects in Cybersecuriy, AI, Data Science etc.
  
-- Build an innovative **AI Project**:
-  Build a real-world AI tool (e.g., intelligent chatbot, personal productivity assistant, etc) and deploy it.
-
-- Achieve Certifications in **Emerging Tech**:
-  Complete certifications in AI, cloud computing (AWS, Azure), or Cybersecurity to solidify expertise and boost credibility.
-
-
----
 
 <!--
+---
+
+
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" 
