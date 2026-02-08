@@ -1,9 +1,4 @@
-<!-- ============================
-       PROFILE BANNER
-============================ -->
-
-
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://i.pinimg.com/736x/1a/4b/24/1a4b24b92bcfc79a41430588665ccc31.jpg" 
     alt="Banner Image" 
@@ -12,21 +7,17 @@
     style="object-fit: cover; border-radius: 10px;"
   />
 </p>
+-->
 
-
-<!-- ============================
-       INTRODUCTION
-============================ -->
 <h1 align="center">
-  hellooo, i’m <a href="https://github.com/humm3ll">ethan:)</a> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlwdzA3cDRocjJmNGR6em82N2xpbWFqOW5mejVnbTEzdzBpemV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.gif" width="80px" alt="wave"/>
+  Hiya, i’m <a href="https://github.com/humm3ll">Ethan :)</a> 
 </h1>
 <p align="center">
-2nd Year Undergraduate student in Comp Sci</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, Robotics & AI, and Software Engineering</strong> 
+2nd Year Undergraduate student in Computer Science</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, Robotics & AI, and Software Engineering</strong> 
 </p>
 
 <p align="center">
-  <!-- Visitor counter -->
+  
   <img src="https://komarev.com/ghpvc/?username=humm3ll&style=flat&color=blue" alt="Profile views" />
 </p>
 
@@ -55,77 +46,62 @@
 ---
 
 
-<!-- ============================
-       TECHNOLOGY STACK
-============================ -->
+
 ## Technology Stack
 
 <p align="center">
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <!-- Python -->
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40" height="40"/>
-  <!-- Eclipse IDE -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-eclipse-icon-download-in-svg-png-gif-file-formats--brand-company-logo-world-logos-vol-3-pack-icons-282371.png?f=webp&w=128" alt="Eclipse IDE" width="40" height="40"/>
-  <!-- Docker -->
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <!-- Neovim -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
   <!-- VSCode -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <!-- Arch Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
+  <!-- Kali Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 
 ---
 
 
-<!-- ============================
-     📊 GITHUB STATS & CHARTS
-============================ -->
+
 ## GitHub Stats
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" 
-        alt="GitHub Stats" 
-        width="400px"
-      />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=humm3ll&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170px" />
     </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" 
-        alt="Top Languages" 
-        width="400px"
-      />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=humm3ll&layout=compact&theme=dark" alt="Top Languages" height="170px" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll" 
-        alt="Contribution Graph" 
-        width="400px"
-      />
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=humm3ll&theme=react-dark&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" height="170px" />
     </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=humm3ll&theme=dark&hide_border=true" 
-        alt="GitHub Streak" 
-        width="400px"
-      />
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=humm3ll&theme=dark&hide_border=true" alt="GitHub Streak" height="170px" />
     </td>
   </tr>
 </table>
 
-
+<!--
 ---
-
 
 <p align="center">
   <img 
@@ -136,21 +112,19 @@
     style="object-fit: cover; border-radius: 10px;"
   />
 </p>
-
+-->
 
 ---
 
 
-<!-- ============================
-       PROSPECTS & CONTACT
-============================ -->
+
 ## Prospects
 
 - Refine and Expand **Portfolio Website**:
   Implement interactive features (blogs, projects, more animations and images) and optimise further for mobile and SEO responsiveness.
   
 - Contribute to High-Impact **Open-Source Projects**:
-  Focus on projects in AI, Cybersecurity, web dev etc.
+  Focus on projects in Cybersecuriy, AI, Data Science etc.
  
 - Build an innovative **AI Project**:
   Build a real-world AI tool (e.g., intelligent chatbot, personal productivity assistant, etc) and deploy it.
@@ -161,7 +135,7 @@
 
 ---
 
-
+<!--
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" 
@@ -171,7 +145,7 @@
     style="object-fit: cover; border-radius: 10px;"
   />
 </p>
-
+-->
 
 ---
 
