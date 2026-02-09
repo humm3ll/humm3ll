@@ -10,22 +10,16 @@
 -->
 
 <h1 align="center">
-  Hiya, i’m <a href="https://github.com/humm3ll">Ethan :)</a> 
+  Hiya <!--<a href="https://github.com/humm3ll">-->:)</a> 
 </h1>
 <p align="center">
-2nd Year Undergraduate student in Computer Science</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, Robotics & AI, Software Engineering, and Data Analysis</strong> 
+2nd Year Undergraduate Student in Computer Science</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, Robotics & AI, Software Engineering, and Data Analysis</strong> 
 </p>
 
 <p align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=humm3ll&style=flat&color=blue" alt="Profile views" />
 </p>
 
-
----
-
-
-## Contacts
 
 <p align="center">
   <!-- Email -->
@@ -47,31 +41,31 @@
 
 
 
-## Technology Stack
+### Technology Stack
 
 <p align="center">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <!-- Neovim -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="50" height="50"/>
   <!-- VSCode -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
   <!-- Arch Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="50" height="50"/>
   <!-- Kali Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="50" height="50"/>
   <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
 
@@ -79,7 +73,7 @@
 
 
 
-## GitHub Stats
+### GitHub Stats
 
 <table align="center" width="100%">
   <tr>
@@ -119,7 +113,7 @@
 
 
 
-## Core Focus: Cybersecurity
+### Core Focus: Cybersecurity
 
 I focus on building and securing systems with a strong foundation in practical cybersecurity. My work integrates software engineering, AI, robotics, and data science to develop secure, resilient, and real-world-ready systems.
 
@@ -129,15 +123,13 @@ Actively pursuing industry recognised certifications including CompTIA Security+
 **Applied Security and Open Source**  
 Contributing to open source projects at the intersection of cybersecurity, AI, and data science, with a focus on threat detection, vulnerability assessment, and secure system design.
 
-## Current Objectives
+### Current Objectives
 
 - Developing AI-assisted security tools for monitoring, threat analysis, and automated detection  
 - Expanding my portfolio into a hub for technical write ups, project deep dives, and security-focused case studies  
 - Leveraging my background in software engineering and robotics to design and secure complex systems suitable for high-assurance environments
 
 
-
-  
  
 
 <!--
