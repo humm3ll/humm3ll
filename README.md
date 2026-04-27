@@ -13,7 +13,7 @@
   Hiya <!--<a href="https://github.com/humm3ll">-->:)</a> 
 </h1>
 <p align="center">
-2nd Year Undergraduate Student in Computer Science</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, Robotics & AI, Software Engineering, and Data Analysis</strong> 
+2nd Year Undergraduate Student in Computer Science</strong> @ Edge Hill University | Passionate about <strong>Cybersecurity, AI/ML, and Data Science/Analysis</strong> 
 </p>
 
 <p align="center">
@@ -88,22 +88,14 @@
 
 
 
+### Core Focus
 
-### Core Focus: Cybersecurity
-
-I focus on building and securing systems with a strong foundation in practical cybersecurity. My work integrates software engineering, AI, robotics, and data science to develop secure, resilient, and real-world-ready systems.
-
-**Learning and Certification**  
-Actively pursuing industry recognised certifications including CompTIA Security+, CEH, and cloud security on AWS and Azure, to strengthen expertise across both offensive and defensive security domains.
-
-**Applied Security and Open Source**  
-Contributing to open source projects at the intersection of cybersecurity, AI, and data science, with a focus on threat detection, vulnerability assessment, and secure system design.
+Cybersecurity, with strong crossover into AI/ML and data science. I build systems that are secure by design; integrating threat detection, intelligent automation, and data-driven analysis into practical tools.
 
 ### Current Objectives
-
-- Developing AI-assisted security tools for monitoring, threat analysis, and automated detection  
-- Expanding my portfolio into a hub for technical write ups, project deep dives, and security-focused case studies  
-- Leveraging my background in software engineering and robotics to design and secure complex systems suitable for high-assurance environments
+- Building AI-assisted security tooling for threat detection and automated response
+- Applying ML and data science to security problems — anomaly detection, behavioural analysis, pattern recognition
+- Expanding my portfolio with technical write-ups across cybersecurity, AI, and data science projects
 
 
  
