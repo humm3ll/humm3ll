@@ -40,9 +40,15 @@
 ---
 
 
+ ### Technology Stack
 
 ### Technology Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,mysql,neovim,vscode,arch,kali,linux,git&theme=dark" />
+</p>
+
+```
 <table align="center"></tr>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/></td>
@@ -67,7 +73,7 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/></td>
 </tr></table>
-
+```
 
 ---
 
