@@ -39,9 +39,6 @@
 
 ---
 
-
- ### Technology Stack
-
 ### Technology Stack
 
 <p align="center">
